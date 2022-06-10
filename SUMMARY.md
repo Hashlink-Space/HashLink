@@ -24,7 +24,7 @@
 ## 🕹 Utilities
 
 * [Upcoming Utilities](utilities/upcoming-utilities.md)
-* [HASHI E-CLUB](utilities/hashi-e-club.md)
+* [HASHI E-CLUB](utilities/hashi-eclub.md)
 
 ## 🪙 Tokenomics
 
