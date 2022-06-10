@@ -61,7 +61,7 @@ __](https://hashlink.space/#collapseFive5)__
 
 <summary>How to buy</summary>
 
-Refer to [#Token Tokenomic](site-introduction/token-tokenomic.md)
+Refer to [#Token Tokenomic](../tokenomics/token-tokenomic.md)
 
 </details>
 
