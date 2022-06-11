@@ -26,7 +26,9 @@
   ****\
   ****
 * **Ecological Funds/Rewards - 3%**\
-  ****\
-  ****\
+  ****Will be use for events rewards eg. airdrop, daily activities etc.\
+  **Address:** 0x7ACde1c1B1A02106D5169be143d62a46bb3f206a\
   ****
-* **Advisor - 2%**
+* **Advisor - 2%**\
+  ****Advisor/consultant\
+  **Address:** 0xB47F53A602CBfEE9bB67A5171cE53222F4706D4D
