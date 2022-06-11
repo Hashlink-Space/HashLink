@@ -25,6 +25,16 @@
 
 #### <mark style="color:yellow;">Mainly serving Esport & Games</mark>
 
-<mark style="color:yellow;"></mark>
+**IS THE ECLUB GAME FAIR?**
 
-<mark style="color:yellow;"></mark>
+* We are a fair and impartial prediction and guessing platform. Our goal is to eliminate all unfair factors and make players feel comfortable and have fun.
+* EClub use verifiable hases and oracles to keep the game fair.
+
+**RICH GAME TYPES?**
+
+* HASHI EClub is a community-based gaming platform that provides players witih a wide variety of game types including dice,poker,roulette,and mini-games.
+
+**GAME BONUSES**
+
+* **The game bonus consists of the following components:**\
+  ****2% of each $HASHI Transaction amount is injected into the bonus. Reflection bonus for Hashi Transaction, The player's bet amount on the game and Random Airdrops and rewards.
