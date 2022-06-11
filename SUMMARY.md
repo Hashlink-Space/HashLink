@@ -19,6 +19,7 @@
   * [Twitter Event](about-projects/ongoing-event/twitter-event.md)
 * [Community Links](about-projects/community-links.md)
 * [Roadmap](about-projects/roadmap.md)
+* [ICO PUBLIC SALE](about-projects/ico-public-sale.md)
 * [FAQ](about-projects/faq.md)
 
 ## 🕹 Utilities
