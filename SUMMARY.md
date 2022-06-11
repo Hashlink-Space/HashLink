@@ -26,11 +26,11 @@
 * [Upcoming Utilities](utilities/upcoming-utilities.md)
 * [HASHI E-CLUB](utilities/hashi-eclub.md)
 
+## 🖼 NFT HASHI CLUB
+
+* [NFT HASHI CLUB & Core Team](nft-hashi-club/nft-hashi-club-and-core-team.md)
+
 ## 🪙 Tokenomics
 
 * [Token Allocation](tokenomics/token-allocation.md)
 * [Token Tokenomic](tokenomics/token-tokenomic.md)
-
-## 🖼 NFT HASHI CLUB
-
-* [NFT HASHI CLUB & Core Team](nft-hashi-club/nft-hashi-club-and-core-team.md)
