@@ -28,7 +28,7 @@
 
 ## 🖼 NFT HASHI CLUB
 
-* [NFT HASHI CLUB & Core Team](nft-hashi-club/nft-hashi-club-and-core-team.md)
+* [NFT HASHI CLUB](nft-hashi-club/nft-hashi-club.md)
 
 ## 🪙 Tokenomics
 
