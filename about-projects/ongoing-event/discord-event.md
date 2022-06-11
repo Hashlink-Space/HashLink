@@ -2,7 +2,7 @@
 
 ![Raffle ongoing](../../.gitbook/assets/photo\_2022-06-10\_18-19-06.jpg)
 
-### Raffles Starts on Discord Today! Join now to Enter! (Ongoing)
+### Raffles Starts on Discord Today! Join now to Enter! <mark style="color:red;">(Ongoing)</mark>
 
 * First Prize: 5000 HASHI
 * Second Prize: 3000 HASHI
