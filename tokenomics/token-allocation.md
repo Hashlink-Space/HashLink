@@ -2,6 +2,10 @@
 
 ![](<../.gitbook/assets/image (6).png>)
 
+## Total Supply:
+
+* 100,000,000,000
+
 ### Token Allocation and Uses as follows:
 
 * **Liquidity - 35%**\
