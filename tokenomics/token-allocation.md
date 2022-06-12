@@ -2,6 +2,10 @@
 
 ![](<../.gitbook/assets/image (6).png>)
 
+## Total Supply:
+
+* 100,000,000,000
+
 ### Token Allocation and Uses as follows:
 
 * **Liquidity - 35%**\
@@ -32,3 +36,5 @@
 * **Advisor - 2%**\
   ****Advisor/consultant\
   **Address:** 0xB47F53A602CBfEE9bB67A5171cE53222F4706D4D
+
+#### After ICO, all tokens will be locked and release 5% of total amount every month then 5% will be seperated to allocation above.
